@@ -1,0 +1,22 @@
+{
+  "name": "chat-app-using-websockets",
+  "version": "1.0.0",
+  "description": "Simple chat application using websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chat-app-using-websockets"
+  },
+  "author": "ajitesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
